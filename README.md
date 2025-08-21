@@ -14,7 +14,7 @@
 ### 🚀 Projects
 | Name | Description | Link |
 |------|-------------|------|
-| **Minecraft Clone** | A 3D voxel sandbox game created in Unity | [Github Repo](https://github.com/Wargencob/MinecraftCloneUnity) |
+| **Minecraft Clone** | A 3D voxel sandbox game created in Unity | [Github Repo](https://github.com/wargen230/MinecraftCloneUnity) |
 
 ### 📈 GitHub Stats
 <p align="center">
