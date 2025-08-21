@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gleb (aka Wargencob) 👋</h1>
+<h1 align="center">Hi, I'm Gleb (aka wargen230) 👋</h1>
 
 ### 🎯 About Me
 - 🧠 Passionate C# developer with a focus on **Unity** and **game development**
