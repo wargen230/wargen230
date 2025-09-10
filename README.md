@@ -16,11 +16,6 @@
 |------|-------------|------|
 | **Minecraft Clone** | A 3D voxel sandbox game created in Unity | [Github Repo](https://github.com/wargen230/MinecraftCloneUnity) |
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wargen230&show_icons=true&theme=tokyonight" alt="Gleb's GitHub stats"/>
-</p>
-
 ### 📫 Contact Me
 - 📧 Email: gleb.vasilev.14@bk.ru
 - 💬 Telegram: [@Wargencomb](https://t.me/Wargencomb)
