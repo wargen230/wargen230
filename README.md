@@ -6,7 +6,7 @@
 - Deeply interested in: **probability theory**, **linear algebra**, **group theory**, **topology**
 - I also play guitar and read fantasy novels in my spare time
 
-### 💼 Skills
+### Skills
 - **Languages:** C#, Python, С, C++, JS
 - **Tools & Frameworks:** Unity, Git, Visual Studio, Blender (basic), Qt, nodejs
 - **Concepts:** OOP, gamedev, custom physics, restful API
